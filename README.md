@@ -4,9 +4,15 @@ O objetivo desta primeira versão é que seja possível incluir, alterar, listar
 O Gestor espera que você desenvolva a aplicação no qual exista tratamento dos erros para os cenários possíveis. Desenvolva um menu para que possa controlar as funcionalidades. A funcionalidade de listar e consultar deverá exibir os dados do projeto. Exemplo:
 
 Projeto:
+
 Nome:
+
 Objetivo:
+
 Necessidades:
+
 Data Início:
+
 Data Final:
+
 Status:
